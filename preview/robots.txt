@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: file:////Users/sophiamuce/Documents/Publii/sites/master-template/preview/sitemap.xml
